@@ -17,4 +17,4 @@ javafx {
     modules = [ 'javafx.controls', 'javafx.fxml' ]    
 }
 
-mainClassName = "TestGradleFX"
+mainClassName = "GradleJavaFXExample.Main"
