@@ -17,4 +17,6 @@ javafx {
     modules = [ 'javafx.controls', 'javafx.fxml' ]    
 }
 
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
 mainClassName = "GradleJavaFXExample.Main"
